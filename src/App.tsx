@@ -23,7 +23,7 @@ function App() {
   return (
     <Routes>
       <Route
-        path="progerprogerovich.github.io/react-device/"
+        path="/react-device/"
         element={<MainLayout />}
       >
         <Route path="" element={<Home />} />

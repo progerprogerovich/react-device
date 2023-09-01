@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-device/static/css/main.22c24424.css",
+    "main.js": "/react-device/static/js/main.0ab24de4.js",
+    "Cart.js": "/react-device/static/js/Cart.4aacc1d1.chunk.js",
+    "FullDevice.js": "/react-device/static/js/FullDevice.e6c0242d.chunk.js",
+    "NotFound.js": "/react-device/static/js/NotFound.fd0ef81c.chunk.js",
+    "static/media/device-logo.png": "/react-device/static/media/device-logo.5fc6ed33f9648c16d8bf.png",
+    "static/media/empty-cart.png": "/react-device/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "index.html": "/react-device/index.html",
+    "main.22c24424.css.map": "/react-device/static/css/main.22c24424.css.map",
+    "main.0ab24de4.js.map": "/react-device/static/js/main.0ab24de4.js.map",
+    "Cart.4aacc1d1.chunk.js.map": "/react-device/static/js/Cart.4aacc1d1.chunk.js.map",
+    "FullDevice.e6c0242d.chunk.js.map": "/react-device/static/js/FullDevice.e6c0242d.chunk.js.map",
+    "NotFound.fd0ef81c.chunk.js.map": "/react-device/static/js/NotFound.fd0ef81c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22c24424.css",
+    "static/js/main.0ab24de4.js"
+  ]
+}

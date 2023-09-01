@@ -22,7 +22,14 @@ const NotFound = React.lazy(
 function App() {
   return (
     <Routes>
+<<<<<<< HEAD
       <Route path="/react-device" element={<MainLayout />}>
+=======
+      <Route
+        path="/react-device"
+        element={<MainLayout />}
+      >
+>>>>>>> e40ec4a11dc40203b184f22c81dc52859bf10155
         <Route path="" element={<Home />} />
         <Route
           path="cart"

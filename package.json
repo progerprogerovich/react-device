@@ -1,7 +1,7 @@
 {
   "name": "react-device",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://progerprogerovich.github.io/react-device/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",

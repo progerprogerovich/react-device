@@ -26,7 +26,7 @@ function App() {
         path="/https://progerprogerovich.github.io/react-device/"
         element={<MainLayout />}
       >
-        <Route path="/react-device/" element={<Home />} />
+        <Route path="/https://progerprogerovich.github.io/react-device/" element={<Home />} />
         <Route
           path="cart"
           element={

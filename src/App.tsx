@@ -26,7 +26,7 @@ function App() {
         path="/react-device/"
         element={<MainLayout />}
       >
-        <Route path="" element={<Home />} />
+        <Route path="/react-device/" element={<Home />} />
         <Route
           path="cart"
           element={

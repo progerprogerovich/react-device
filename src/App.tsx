@@ -23,10 +23,10 @@ function App() {
   return (
     <Routes>
       <Route
-        path="/https://progerprogerovich.github.io/react-device/"
+        path="react-device"
         element={<MainLayout />}
       >
-        <Route path="/https://progerprogerovich.github.io/react-device/" element={<Home />} />
+        <Route path="" element={<Home />} />
         <Route
           path="cart"
           element={
